@@ -1,0 +1,13 @@
+{
+  "name": "semantic-ui-example",
+  "version": "1.0.0",
+  "description": "An exported example from Semantic UI React, https://react.semantic-ui.com/",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "semantic-ui-react": "2.0.0",
+    "react-scripts": "latest"
+  }
+}
